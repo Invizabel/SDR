@@ -11,10 +11,10 @@ Add_standard_frequencies: true
 
 # Default Frequency: used as default for "Read" and "Read Raw"
 #Default_frequency: 433920000
-Default_frequency: 410400000
+Default_frequency: 400210000
 
 # Frequencies used for "Read", "Read Raw" and "Frequency Analyzer"
-Frequency: 410400000
+Frequency: 400210000
 #Frequency: 310000000
 #Frequency: 320000000
 
