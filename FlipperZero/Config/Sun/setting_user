@@ -1,5 +1,6 @@
 # This file aims to help you listen to the sun from outer space!
-# use AM 650 modulation!
+# Use AM 650 modulation!
+# Source: https://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-features/solar-radio/rstn-1-second/docs/rstn-contact.txt
 
 # to use manual settings and prevent them from being deleted on upgrade, rename *_user.example files to *_user
 Filetype: Flipper SubGhz Setting File
